@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800&display=swap');
+
+#root {
+  min-height: 100svh;
+}
+
+::selection {
+  background: #4f46e5;
+  color: #fff;
+}
